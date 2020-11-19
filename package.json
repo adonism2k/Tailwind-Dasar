@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-dasar",
+  "version": "1.0.0",
+  "description": "Belajar tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "tailwindcss": "^2.0.1-compat"
+  },
+  "devDependencies": {
+    "postcss": "^7.0.35",
+    "postcss-cli": "^8.3.0"
+  }
+}
