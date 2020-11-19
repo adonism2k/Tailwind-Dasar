@@ -1,14 +1,12 @@
 module.exports = {
   purge: [
-    './resource/index.html'
+    './resource/index.html',
+    './resource/sizing.html'
   ],
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {},
     screens: {
-      'phone': "400px",
-      //  => @media (min-width: 400px) { ... }
-
       'tablet': '640px',
       // => @media (min-width: 640px) { ... }
 
